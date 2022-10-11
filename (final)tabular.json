@@ -1,0 +1,1118 @@
+[
+  {
+    "main": "Tavla",
+    "banned": ["Zar", "Oyun", "Yenmek", "Mars", "Kapı"]
+  },
+  {
+    "main": "Para",
+    "banned": ["Kağıt", "Dolar", "Türk Lirası", "Ülke", "Kazanmak"]
+  },
+  {
+    "main": "Çorap",
+    "banned": ["Ayak", "İnce/Kalın", "Ten Rengi", "Parizyen", "Giymek"]
+  },
+  {
+    "main": "Kalem",
+    "banned": ["Kurşun", "Tükenmez", "Dolma", "Çizmek", "Kağıt"]
+  },
+  {
+    "main": "Aşk",
+    "banned": ["Kalp", "Kelebek", "Heyecan", "Konuşmak", "Sevmek"]
+  },
+  {
+    "main": "Takvim",
+    "banned": ["Yıl", "Ay", "Hafta", "Gün", "Sayı"]
+  },
+  {
+    "main": "Telefon",
+    "banned": ["Alo", "Ahize", "Tuş", "Ses", "Akıllı"]
+  },
+  {
+    "main": "Steteskop",
+    "banned": ["Ses", "Kalp", "Doktor", "Boyun", "Kulaklık"]
+  },
+  {
+    "main": "Hastalık",
+    "banned": ["Hastane", "Hasta", "Doktor", "Hemşire", "İlaç"]
+  },
+  {
+    "main": "Akrep",
+    "banned": ["Burç", "Saat", "Yelkovan", "İbre", "Zaman"]
+  },
+  {
+    "main": "Gaga",
+    "banned": ["Kuş", "Yemek", "Yavru", "Solucan", "Ağaçkakan"]
+  },
+  {
+    "main": "Banka",
+    "banned": ["Müşteri", "Para", "Hesap", "Kredi Kartı", "Çek"]
+  },
+  {
+    "main": "Araba",
+    "banned": ["Ulaşım", "Araç", "Hız", "Fren", "Gaz"]
+  },
+  {
+    "main": "Uçak",
+    "banned": ["Uçmak", "Hava", "Hız", "Hostes", "Pilot"]
+  },
+  {
+    "main": "Ev",
+    "banned": ["Oda", "Salon", "Mutfak", "Tuvalet", "Yaşamak"]
+  },
+  {
+    "main": "Ofis",
+    "banned": ["Çalışmak", "Para", "Fotokopi", "Telefon", "Sekreter"]
+  },
+  {
+    "main": "Otel",
+    "banned": ["Uyumak", "Tatil", "Hizmet", "Palas", "Masaj"]
+  },
+  {
+    "main": "Dost",
+    "banned": ["Güven", "Samimi", "Dürüst", "Namuslu", "Ahlaklı"]
+  },
+  {
+    "main": "Masa",
+    "banned": ["Çekmece", "Bilgisayar", "Yemek", "Kalem", "Dosya"]
+  },
+  {
+    "main": "Borsa",
+    "banned": ["İniş", "Çıkış", "Hisse", "Spekülasyon", "Broker"]
+  },
+  {
+    "main": "Kazak",
+    "banned": ["Yün", "İplik", "Sıcak", "Örme", "Yasak"]
+  },
+  {
+    "main": "Balık",
+    "banned": ["Fırın", "Olta", "Tava", "Roka", "Helva"]
+  },
+  {
+    "main": "Türkiye",
+    "banned": ["Atatürk", "Cennet", "Büyük", "İstanbul", "Ülke"]
+  },
+  {
+    "main": "Yeniçeri",
+    "banned": ["Osmanlı", "Türk", "Asker", "Kazan Kladırmak", "Ocak"]
+  },
+  {
+    "main": "Fatura",
+    "banned": ["Borç", "Kağıt", "Postacı", "Para", "Fiş"]
+  },
+  {
+    "main": "Aşçı",
+    "banned": ["Yemek", "Meslek", "Önlük", "Mutfak", "Yiyecek"]
+  },
+  {
+    "main": "Yastık",
+    "banned": ["Uyku", "Yumuşak", "Baş", "Yatmak", "Tüy"]
+  },
+  {
+    "main": "Fotoğraf Makinesi",
+    "banned": ["Flaş", "Tab", "Resim", "Çekim", "Poz"]
+  },
+  {
+    "main": "Kedi",
+    "banned": ["Sokak", "Ev", "Tüy", "Kuyruk", "Şımarık"]
+  },
+  {
+    "main": "Turizm",
+    "banned": ["Tatil", "Gezmek", "Otel", "Şirket", "Tur"]
+  },
+  {
+    "main": "Saat",
+    "banned": ["Kol", "Zaman", "Duvar", "Sayı", "7/24"]
+  },
+  {
+    "main": "Okul",
+    "banned": ["Öğrenci", "Öğretmen", "Yurt", "Defter", "Kalem"]
+  },
+  {
+    "main": "Anahtar",
+    "banned": ["Kilit", "Metal", "Kasa", "Kapı", "Çilingir"]
+  },
+  {
+    "main": "Gözlük",
+    "banned": ["Miyop", "Astigmat", "Güneş", "Görmek", "Takmak"]
+  },
+  {
+    "main": "Sinema",
+    "banned": ["Bilet", "Salon", "Film", "Patlamış Mısır", "Karanlık"]
+  },
+  {
+    "main": "Parfüm",
+    "banned": ["Koku", "Güzel", "Mis gibi", "Sıkmak", "Terlemek"]
+  },
+  {
+    "main": "Kumbara",
+    "banned": ["Para", "Biriktirmek", "Saklamak", "Yatırım", "Banka"]
+  },
+  {
+    "main": "Gemi",
+    "banned": ["Deniz", "Filika", "Yolcu", "Kaptan", "Palamar"]
+  },
+  {
+    "main": "Maymun",
+    "banned": ["Hayvan", "Muz", "Şebeklik", "Evrim", "Çikita"]
+  },
+  {
+    "main": "Antika",
+    "banned": ["Müzayede", "Zengin", "Eski", "Para", "Tablo"]
+  },
+  {
+    "main": "Kahve",
+    "banned": ["Kafein", "Süt Tozu", "İçmek", "Sigara", "Zevk"]
+  },
+  {
+    "main": "Pet Şişe",
+    "banned": ["Su", "Çöp", "Atık", "Naylon", "İçmek"]
+  },
+  {
+    "main": "Yalaka",
+    "banned": ["Yağcı", "Riyakar", "Patron", "İşyeri", "İltifat"]
+  },
+  {
+    "main": "Öküz",
+    "banned": ["Büyükbaş Hayvan", "Boynuz", "Tren", "İnek", "Et"]
+  },
+  {
+    "main": "Tabut",
+    "banned": ["Cenaze", "Ölü", "Morg", "Namaz", "Mezarlık"]
+  },
+  {
+    "main": "Çalmak",
+    "banned": ["Ayaklamak", "Hırsız", "Ev", "İzin", "Polis"]
+  },
+  {
+    "main": "Proje",
+    "banned": ["Ödev", "Mimar", "Mühendis", "Çizim", "Cetvel"]
+  },
+  {
+    "main": "Kimyon",
+    "banned": ["Baharat", "Karabiber", "Köfte", "Nane", "Kekik"]
+  },
+  {
+    "main": "Eskimo",
+    "banned": ["Kutup", "Buzul", "Kar", "İglo", "Balık"]
+  },
+  {
+    "main": "Panda",
+    "banned": ["Soy", "Ayı", "Beyaz", "Oyuncak", "Nesli Tükenmek"]
+  },
+  {
+    "main": "Kumanda",
+    "banned": ["Zaplama", "Düğme", "Televizyon", "Uzak", "Basmak"]
+  },
+  {
+    "main": "Pasaport",
+    "banned": ["Yurt Dışı", "Elçilik", "Seyahat", "Başvuru", "Evrak"]
+  },
+  {
+    "main": "Müslüm Gürses",
+    "banned": ["Arabesk", "Jilet", "Konser", "Sarhoş", "Muhterem Nur"]
+  },
+  {
+    "main": "Akıl Hastanesi",
+    "banned": ["Deli", "Psikiyatrist", "Gömlek", "Huni", "Bakırköy"]
+  },
+  {
+    "main": "Tosbağa",
+    "banned": ["Araba", "Eski", "Vosvos", "Kaplumbağa", "Kabuk"]
+  },
+  {
+    "main": "Elma",
+    "banned": ["Ağaç", "Tatlı", "Kırmızı", "Meyve", "Yemek"]
+  },
+  {
+    "main": "Eczane",
+    "banned": ["Eczacı", "İlaç", "Reçete", "Kalfa", "Hasta"]
+  },
+  {
+    "main": "Yapboz",
+    "banned": ["Puzzle", "Resim", "Bulmaca", "Karton", "Oyun"]
+  },
+  {
+    "main": "Bulut",
+    "banned": ["Gökyüzü", "Mavi", "Güneş", "Yağmur", "Hava"]
+  },
+  {
+    "main": "Zeus",
+    "banned": [
+      "Eski Yunan",
+      "Mitoloji",
+      "Antik Şehir Tanrısı",
+      "Olimpos Dağı",
+      "Heykel"
+    ]
+  },
+  {
+    "main": "Rakı",
+    "banned": ["Kadeh", "Anason", "İçmek", "Meze", "Aslan Sütü"]
+  },
+  {
+    "main": "Sevgililer Günü",
+    "banned": ["14 Şubat", "Aşk", "Hediye", "Kırmızı Gül", "Çiçek"]
+  },
+  {
+    "main": "Üniversite",
+    "banned": ["Okul", "Eğitim", "Kyk", "Öğrenci", "Fakülte"]
+  },
+  {
+    "main": "Hamam",
+    "banned": ["Sauna", "Masaj", "Tellak", "Terlemek", "Takunya"]
+  },
+  {
+    "main": "Sözlük",
+    "banned": ["Kelime", "Tanım", "Cümle", "Dil", "Anlam"]
+  },
+  {
+    "main": "Penguen",
+    "banned": ["Hayvan", "Kutuplar", "Karikatür", "Siyah", "Beyaz"]
+  },
+  {
+    "main": "Pansiyon",
+    "banned": ["Yatak", "Tatil", "Klima", "Okul", "Kalmak"]
+  },
+  {
+    "main": "Kapadokya",
+    "banned": ["Göreme", "Ürgüp", "Şarap", "Yeraltı Şehri", "Tatil"]
+  },
+  {
+    "main": "Avrupa Yakası",
+    "banned": ["İstanbul", "Dizi", "Atv", "Gülse Birsel", "Batı"]
+  },
+  {
+    "main": "Gönül Dağı",
+    "banned": ["Dizi", "Trt 1", "Cumartesi", "Aşk", "Umut"]
+  },
+  {
+    "main": "Yasak Elma",
+    "banned": ["Fox", "Pazartesi", "Dizi", "Aşk", "İntikam"]
+  },
+  {
+    "main": "Survivor",
+    "banned": ["TV8", "Acun Ilıcalı", "Yarışma", "Mücadele", "Program"]
+  },
+  {
+    "main": "Kuruluş Osman",
+    "banned": ["Dizi", "Atv", "Tarih", "Çarşamba", "Ülke"]
+  },
+  {
+    "main": "Alparslan Büyük Selçuklu",
+    "banned": ["Dizi", "Trt1", "Pazartesi", "Tarih", "Savaş"]
+  },
+  {
+    "main": "Kardeşlerim",
+    "banned": ["Atv", "Cumartesi", "Dizi", "Aile", "Dram"]
+  },
+  {
+    "main": "Aşk-ı Memnu",
+    "banned": ["Kanal D", "Dizi", "Aşk", "Bihter", "Behlül"]
+  },
+  {
+    "main": "Berk Oktay",
+    "banned": [
+      "Oyuncu",
+      "Yasak Elma",
+      "İlişki Durumu:Karışık",
+      "Bir Küçük Gün Işığı",
+      "Dizi"
+    ]
+  },
+  {
+    "main": "İnternet",
+    "banned": ["Yaşam", "Modem", "Sohbet", "Oyun", "Mail"]
+  },
+  {
+    "main": "New York",
+    "banned": ["ABD", "Metro", "Özgürlük Anıtı", "Central Park", "George Bush"]
+  },
+  {
+    "main": "Meteor",
+    "banned": ["Gök Taşı", "Alev Tpou", "Uzay", "Çarpmak", "Krater"]
+  },
+  {
+    "main": "Hokkabaz",
+    "banned": ["Sihirbaz", "İllüzyonist", "Mandrake", "Hile Baz", "Cem Yılmaz"]
+  },
+  {
+    "main": "Göz Yaşı",
+    "banned": ["Ağlamak", "Göz", "Su", "Silmek", "Mendil"]
+  },
+  {
+    "main": "Abajur",
+    "banned": ["Lamba", "Avize", "Işık", "Aplik", "Kitap OKumak"]
+  },
+  {
+    "main": "Çıngırak",
+    "banned": ["Yılan", "Bebek", "Çan", "Hayvan", "Sürügen"]
+  },
+  {
+    "main": "Silikon",
+    "banned": ["Soğuk/Sıcak", "Göğüs", "Kadın", "Yalıtkan", "Yumuşak"]
+  },
+  {
+    "main": "Heyelan",
+    "banned": ["Doğal Afet", "Toprak Kayması", "Ağaç", "Yağmur", "Çamur"]
+  },
+  {
+    "main": "Kaymak",
+    "banned": ["Süt", "Ski", "Kaydırak", "Bal", "Tatlı"]
+  },
+  {
+    "main": "İktidar",
+    "banned": ["Muhalefet", "Otorite", "Yönetim", "Parti", "Yetki"]
+  },
+  {
+    "main": "Ketçap",
+    "banned": ["Domates", "Sos", "Mayonez", "Makarna", "Patates"]
+  },
+  {
+    "main": "Yumuşak",
+    "banned": ["Sert", "Gevşek", "Kulak Memesi", "Lastik", "Dokunmak"]
+  },
+  {
+    "main": "Zina",
+    "banned": ["İhanet", "Aldatmak", "Birlikte Olmak", "Sadakat", "Kandırmak"]
+  },
+  {
+    "main": "Heykel",
+    "banned": ["Sanat", "Resim", "Düşünen Adam", "Büst", "Yontmak"]
+  },
+  {
+    "main": "Alafranga",
+    "banned": ["Tuvalet", "Avrupai", "Gelenek", "Örf", "Adet"]
+  },
+  {
+    "main": "Baldır",
+    "banned": ["Bacak", "Uyluk", "Vücut", "Ayak", "Diz"]
+  },
+  {
+    "main": "Soda",
+    "banned": ["Maden Suyu", "İçecek", "Gazlı", "Kaynak", "Yeraltı"]
+  },
+  {
+    "main": "Minyatür",
+    "banned": ["Küçük", "Prototip", "Ufak", "Minik", "Minyatürk"]
+  },
+  {
+    "main": "Sivrisinek",
+    "banned": ["Hayvan", "Uçmak", "Kan Emmek", "Gece", "İskambil Kağıdı"]
+  },
+  {
+    "main": "Tabu",
+    "banned": ["Yasak", "Oyun", "Aşmak", "Kart", "Anlatmak"]
+  },
+  {
+    "main": "Oruç",
+    "banned": ["İftar", "Sahur", "Ramazan", "Açlık", "Teravih"]
+  },
+  {
+    "main": "Kravat",
+    "banned": ["Boyun", "Yaka", "Gömlek", "Takım Elbise", "Medeniyet"]
+  },
+  {
+    "main": "Altın",
+    "banned": ["Kuyumcu", "Sarraf", "Maden", "Takmak", "Kıymet"]
+  },
+  {
+    "main": "Kolye",
+    "banned": ["Takı", "Boncuk", "Zincir", "Boyun", "Bijuteri"]
+  },
+  {
+    "main": "Mum",
+    "banned": ["Işık", "Romantizm", "Yemek", "Erimek", "Aydınlık"]
+  },
+  {
+    "main": "Bardak",
+    "banned": ["Su", "İçmek", "Cam", "İnce Belli", "Kadeh"]
+  },
+  {
+    "main": "Çorap",
+    "banned": ["Ayak", "Üşümek", "Kokmak", "Giymek", "Değiştirmek"]
+  },
+  {
+    "main": "Kek",
+    "banned": ["Pasta", "Kalıp", "Top", "Hamur", "Yemek"]
+  },
+  {
+    "main": "Kahve",
+    "banned": ["Türk", "Fincan", "Fal", "Cezve", "İçmek"]
+  },
+  {
+    "main": "Daktilo",
+    "banned": ["Harf", "Tuş", "Stilo", "Kağıt", "Yazmak"]
+  },
+  {
+    "main": "Kaset",
+    "banned": ["Video", "Müzik", "Şarkı", "Teyp", "Bant"]
+  },
+  {
+    "main": "Avokado",
+    "banned": ["Amerika", "Meyve", "Tropik", "Armut", "Ananas"]
+  },
+  {
+    "main": "Sucuk",
+    "banned": ["Et", "Baharat", "Salam", "Yumurta", "Kahvaltı"]
+  },
+  {
+    "main": "Kanat",
+    "banned": ["Kuş", "Uçak", "Melek", "Tavuk", "Uçmak"]
+  },
+  {
+    "main": "Klima",
+    "banned": ["Sıcak", "Soğuk", "Eleketrik", "Yaz", "Kış"]
+  },
+  {
+    "main": "Cumhuriyet",
+    "banned": ["Gazete", "Atatürk", "Yönetim", "29 Ekim", "Devlet"]
+  },
+  {
+    "main": "Emek",
+    "banned": ["Alın Teri", "El Emeği", "Güç", "Himmet", "İş"]
+  },
+  {
+    "main": "Ağaç",
+    "banned": ["Yaprak", "Dal", "Meyve", "Çiçek", "Yeşil"]
+  },
+  {
+    "main": "Mont",
+    "banned": ["Soğuk", "Kış", "Kar", "Yağmur", "Üşümek"]
+  },
+  {
+    "main": "Kavga",
+    "banned": ["Bağırmak", "Tartışmak", "Kızmak", "Sinirlenmek", "Küsmek"]
+  },
+  {
+    "main": "Nevresim",
+    "banned": ["Çarşaf", "Yatak", "Uyku", "Takım", "Örtmek"]
+  },
+  {
+    "main": "Perde",
+    "banned": ["Cam", "Tül", "Pencere", "Gece", "Korniş"]
+  },
+  {
+    "main": "Zımba",
+    "banned": ["Kağıt", "Tel", "Birleştirmek", "Delgeç", "Kırtasiye"]
+  },
+  {
+    "main": "Delgeç",
+    "banned": ["Kağıt", "Delmek", "Zımba", "Kırtasiye", "Delik"]
+  },
+  {
+    "main": "Mutfak",
+    "banned": ["Yemek", "Sofra", "Hazırlamak", "Fırın", "Pişirmek"]
+  },
+  {
+    "main": "Priz",
+    "banned": ["Elektrik", "Fiş", "Kablo", "Kontrol Kalemi", "Tamirci"]
+  },
+  {
+    "main": "Halı",
+    "banned": ["Ev", "Yürümek", "Ayak", "Ayakkabı", "Yer"]
+  },
+  {
+    "main": "Ödev",
+    "banned": ["Ders", "Çalışmak", "Okul", "Öğretmen", "Ev"]
+  },
+  {
+    "main": "Yüzük",
+    "banned": ["Parmak", "Takı", "Evlilik", "Nikah", "Nişan"]
+  },
+  {
+    "main": "Hollanda",
+    "banned": ["Lale", "Tahta", "Değirmen", "Amsterdam", "Ülke"]
+  },
+  {
+    "main": "Ayı",
+    "banned": ["Yogi", "Kutup", "Boz", "Armut", "Hayvan"]
+  },
+  {
+    "main": "Şamdan",
+    "banned": ["Mum", "Ateş", "Işık", "Metal", "Yakmak"]
+  },
+  {
+    "main": "Ambulans",
+    "banned": ["Hastane", "Acil", "Araç", "Hasta", "Siren"]
+  },
+  {
+    "main": "Jüpiter",
+    "banned": ["Zeus", "Gezegen", "Dünya", "Kuyruklu Yıldız", "Büyük"]
+  },
+  {
+    "main": "Akvaryum",
+    "banned": ["Balık", "Cam", "Filtre", "Su", "Deniz"]
+  },
+  {
+    "main": "Örümcek",
+    "banned": ["Ağ", "Sinek", "Tarantula", "Adam", "Bacak"]
+  },
+  {
+    "main": "Musluk",
+    "banned": ["Su", "Lavabo", "Bulaşık", "Banyo", "Mutfak"]
+  },
+  {
+    "main": "Radyo",
+    "banned": ["Müzik", "İstasyon", "Frekans", "Dj", "Canlı Yayın"]
+  },
+  {
+    "main": "Kabus",
+    "banned": ["Uyumak", "Yatak", "Düş", "Rüya", "Korku"]
+  },
+  {
+    "main": "Doğum Günü",
+    "banned": ["Pasta", "Mum", "Hediye", "Yaş", "Parti"]
+  },
+  {
+    "main": "Kitap",
+    "banned": ["Sayfa", "Roman", "Hikaye", "Ayraç", "Şiir"]
+  },
+  {
+    "main": "Sonbahar",
+    "banned": ["Mevsim", "Yaprak", "Aylar", "Bahar", "Hüzün"]
+  },
+  {
+    "main": "Pantolon",
+    "banned": ["Ayak", "Jeans", "Kumaş", "Fermuar", "Düğme"]
+  },
+  {
+    "main": "Tehlike",
+    "banned": ["Uyarı", "İkaz", "Alarm", "Yasak", "Ölüm"]
+  },
+  {
+    "main": "Palet",
+    "banned": ["Deniz", "Ayak", "Balık", "Dalgıç", "Resim"]
+  },
+  {
+    "main": "Etek",
+    "banned": ["Kumaş", "Dikiş", "Terzi", "İskoç", "Giysi"]
+  },
+  {
+    "main": "Hoparlör",
+    "banned": ["Bilgisayar", "Ses", "Müzik", "TV", "Radyo"]
+  },
+  {
+    "main": "Kırbaç",
+    "banned": ["Kovboy", "At Arabası", "Fantazi", "Deri", "İşkence"]
+  },
+  {
+    "main": "Yumurta",
+    "banned": ["Kahvaltı", "Tavuk", "Civciv", "Kuluçka", "Sahan"]
+  },
+  {
+    "main": "R.T.E.",
+    "banned": [
+      "Cumhurbaşkanı",
+      "Ak Parti",
+      "Yönetici",
+      "Emine Erdoğan",
+      "Hükümet"
+    ]
+  },
+  {
+    "main": "Ak Parti",
+    "banned": ["R.T.E.", "Ampül", "İktidar", "Cumhurbaşkanı", "Beyaz"]
+  },
+  {
+    "main": "CHP",
+    "banned": ["Kemal K.", "Muhalefet", "Seçim", "6'lı Masa", "İttifak"]
+  },
+  {
+    "main": "Memleket P.",
+    "banned": ["Muharrem İ.", "Muhalefet", "Dürüst", "CHP", "Seçim"]
+  },
+  {
+    "main": "İyi Parti",
+    "banned": ["CHP", "Meral A.", "6'lı Masa", "Muhalefet", "İttifak"]
+  },
+  {
+    "main": "Zafer Partisi",
+    "banned": ["Ümit Özdağ", "Muhalefet", "Sığınmacı", "Babala TV", "Seçim"]
+  },
+  {
+    "main": "Zarf",
+    "banned": ["Mektup", "Fatura", "Postahane", "Postacı", "Sınav Sonucu"]
+  },
+  {
+    "main": "Hakim",
+    "banned": ["Avukat", "Mahkeme", "Suçlu", "Olay", "Kontrol"]
+  },
+  {
+    "main": "Arı",
+    "banned": ["Bal", "Petek", "Balparmak", "Ayı", "Maya"]
+  },
+  {
+    "main": "Makas",
+    "banned": ["Kağıt", "Kesmek", "Kumaş", "Terzi", "Nişan"]
+  },
+  {
+    "main": "Fatura",
+    "banned": ["Fiş", "Firma", "KDV", "Emekli", "İrsaliye"]
+  },
+  {
+    "main": "Örgü",
+    "banned": ["Kazak", "Atkı", "Şiş", "Yün", "Nine"]
+  },
+  {
+    "main": "Kalemlik",
+    "banned": ["Kalem", "Okul", "Öğrenci", "Yazı", "Masa Üzeri"]
+  },
+  {
+    "main": "Şemsiye",
+    "banned": ["Yağmur", "Eşantiyon", "Gök Gürültüsü", "Yaz", "Yağmurluk"]
+  },
+  {
+    "main": "Cami",
+    "banned": ["İmam", "Müslüman", "İbadet", "Namaz", "Ev"]
+  },
+  {
+    "main": "Vazo",
+    "banned": ["Çiçek", "Su", "Hediye", "Buket", "Çiçekçi"]
+  },
+  {
+    "main": "Bağlama",
+    "banned": ["Türkü", "Alevi", "Cem Evi", "Müzik Aleti", "Saz"]
+  },
+  {
+    "main": "Rektör",
+    "banned": ["Üniversite", "Dekan", "Kampüs", "Profesör", "Yök"]
+  },
+  {
+    "main": "AB",
+    "banned": ["Girmek", "Uyum", "Yasa", "Kıbrıs", "Kopenhag"]
+  },
+  {
+    "main": "Dış Ticaret",
+    "banned": ["İthalat", "İhracat", "Yabancı", "Satmak", "Ürün"]
+  },
+  {
+    "main": "Cüppe",
+    "banned": ["Avukat", "Kıyafet", "Mezuniyet", "Kep", "Tören"]
+  },
+  {
+    "main": "Mont",
+    "banned": ["Soğuk", "Kış", "Kar", "Yağmur", "Üşümek"]
+  },
+  {
+    "main": "Mont",
+    "banned": ["Soğuk", "Kış", "Kar", "Yağmur", "Üşümek"]
+  },
+  {
+    "main": "Petrol",
+    "banned": ["Benzin", "Mazot", "Yakıt", "Akaryakıt", "Otomobil"]
+  },
+  {
+    "main": "Beton",
+    "banned": ["Çimento", "İnşaat", "Gri", "Duvar", "Yapmak"]
+  },
+  {
+    "main": "Cihaz",
+    "banned": ["Ürün", "Makine", "Küçük", "Elektronik", "Aparat"]
+  },
+  {
+    "main": "Sınav",
+    "banned": ["Ders", "Puan", "Okul", "Sınıf", "Girmek"]
+  },
+  {
+    "main": "Ritim",
+    "banned": ["Müzik", "Tempo", "Tasarım", "Konu", "Resim"]
+  },
+  {
+    "main": "Karbon",
+    "banned": ["Atom", "Monoksit", "Zarar", "Fabrika", "Baca"]
+  },
+  {
+    "main": "İklim",
+    "banned": ["Doğa", "Çevre", "Mevsim", "Değişiklik", "Bölge"]
+  },
+  {
+    "main": "Grafik",
+    "banned": ["Görsel", "Tasarım", "Konu", "Pasta", "Çizim"]
+  },
+  {
+    "main": "Temel",
+    "banned": ["Mimari", "İnşaat", "Ev", "Taşıyıcı", "Eleman"]
+  },
+  {
+    "main": "Hayat",
+    "banned": ["Yaşam", "İnsan", "Ömür", "Zaman", "Güzel"]
+  },
+  {
+    "main": "İntihar",
+    "banned": [
+      "Vazgeçmek",
+      "Yalnızlık",
+      "Gülmek",
+      "Acı Çekmek",
+      "Herşeyi Sonlandırmak"
+    ]
+  },
+  {
+    "main": "Robot",
+    "banned": ["Kendi", "Makine", "Yapay Zeka", "Fabrika", "Sophia"]
+  },
+  {
+    "main": "Dalga",
+    "banned": ["Deniz", "Enerji", "Okyanus", "Su", "Sörf"]
+  },
+  {
+    "main": "Işık",
+    "banned": ["Enerji", "Güneş", "Ampül", "Aydınlatmak", "Led"]
+  },
+  {
+    "main": "Dönüşüm",
+    "banned": ["Enerji", "Santral", "Dönmek", "Yeni", "Elektrik"]
+  },
+  {
+    "main": "Kimyasal",
+    "banned": ["Tepkime", "Fen", "Enerji", "Sıvı", "Deney"]
+  },
+  {
+    "main": "Reklam",
+    "banned": ["Televizyon", "Satış", "Para", "Yapmak", "Uygulama"]
+  },
+  {
+    "main": "Bilim",
+    "banned": ["İnsan", "Araştırma", "Deney", "Laboratuvar", "Yeni"]
+  },
+  {
+    "main": "2 Boyut",
+    "banned": ["Çizim", "3", "Ön", "Yan", "Resim"]
+  },
+  {
+    "main": "Denge",
+    "banned": ["Simetrik", "Asimetrik", "Terazi", "Tasarım", "Resim"]
+  },
+  {
+    "main": "Sanat",
+    "banned": ["Görsel", "İşitsel", "İnsan", "Müzik", "Resim"]
+  },
+  {
+    "main": "Model",
+    "banned": ["Manken", "Ürün", "Yeni", "Boyut", "Maket"]
+  },
+  {
+    "main": "Güneş",
+    "banned": ["Isı", "Işık", "Kaynak", "Enerji", "Dönmek"]
+  },
+  {
+    "main": "Edison",
+    "banned": ["Ampül", "Elektrik", "Amerika", "Işık", "Akşam"]
+  },
+  {
+    "main": "Radyasyon",
+    "banned": ["Nükleer", "Zararlı", "Çernobil", "Kanser", "Işın"]
+  },
+  {
+    "main": "Hece",
+    "banned": ["Kelime", "Harf", "Ses", "Okumak", "Yazı"]
+  },
+  {
+    "main": "Küsmek",
+    "banned": ["Darılmak", "Kızmak", "Konuşmak", "Tartışmak", "Kavga"]
+  },
+  {
+    "main": "Avize",
+    "banned": ["Lamba", "Kristal", "Tavan", "Işık", "Aydınlık"]
+  },
+  {
+    "main": "Koordinat",
+    "banned": ["Yer", "Enlem", "Boylam", "Belirtmek", "Vermek"]
+  },
+  {
+    "main": "Terim",
+    "banned": ["Kelime", "Anlam", "Fatih", "Sanat", "Kavram"]
+  },
+  {
+    "main": "Soyut",
+    "banned": ["Duyu", "Algılamak", "Görülmeyen", "İsim", "Somut"]
+  },
+  {
+    "main": "Baskül",
+    "banned": ["Tartı", "Kilo", "Ağır", "Ölçü", "Hafif"]
+  },
+  {
+    "main": "Halüsinasyon",
+    "banned": ["Hayal", "Gerçek", "Görmek", "İllüzyon", "Serap"]
+  },
+  {
+    "main": "Armağan",
+    "banned": ["Hediye", "Vermek", "Almak", "Doğum günü", "Sevindirmek"]
+  },
+  {
+    "main": "Satranç",
+    "banned": ["Şah-Mat", "Kale", "Vezir", "Piyon", "Fil"]
+  },
+  {
+    "main": "Paraşüt",
+    "banned": ["Uçak", "Atlamak", "Uçmak", "Balon", "Hava"]
+  },
+  {
+    "main": "Tiyatro",
+    "banned": ["Oyuncu", "Sahne", "Perde", "Oyun", "Suflör"]
+  },
+  {
+    "main": "Anahtar",
+    "banned": ["Kilit", "Metal", "Kasa", "Kapı", "Çilingir"]
+  },
+  {
+    "main": "Fidan",
+    "banned": ["Ağaç", "Büyümek", "Küçük", "Orman", "Dikmek"]
+  },
+  {
+    "main": "Pratik",
+    "banned": ["Kolay", "Zekâ", "Çabuk", "Hızlı", "Çözüm"]
+  },
+  {
+    "main": "Bambu",
+    "banned": ["Sazlık", "Mobilya", "Ağaç", "Masa", "Sandalye"]
+  },
+  {
+    "main": "Yabani",
+    "banned": ["Vahşi", "İlkel", "Hayat", "Orman", "Hayvan"]
+  },
+  {
+    "main": "Yelpaze",
+    "banned": ["Sıcak", "Rüzgar", "Yaz", "Kadın", "Sallamak"]
+  },
+  {
+    "main": "Çuval",
+    "banned": ["Torba", "Doldurmak", "Yem", "Un", "Koymak"]
+  },
+  {
+    "main": "Ajanda",
+    "banned": ["Defter", "İş", "Yazmak", "Gün", "Toplantı"]
+  },
+  {
+    "main": "İştah",
+    "banned": ["Acıkmak", "Kesilmek", "Açmak", "Lezzet", "Yemek"]
+  },
+  {
+    "main": "İhale",
+    "banned": ["Belediye", "Girmek", "Açmak", "Yolsuzluk", "Kazanmak"]
+  },
+  {
+    "main": "Halüsinasyon",
+    "banned": ["Hayal", "Gerçek", "Görmek", "İllüzyon", "Serap"]
+  },
+  {
+    "main": "Hile",
+    "banned": ["Aldatmak", "Kandırmak", "Oyun", "Yapmak", "Kumar"]
+  },
+  {
+    "main": "Halay",
+    "banned": ["Düğün", "Çekmek", "Oynamak", "Mendil", "Mahmut Tuncer"]
+  },
+  {
+    "main": "Plaket",
+    "banned": ["Ödül", "Tören", "Başarı", "Vermek", "Teşekkür"]
+  },
+  {
+    "main": "Staj",
+    "banned": ["Öğrenci", "Çalışmak", "Üniversite", "Tecrübe", "İş"]
+  },
+  {
+    "main": "Macun",
+    "banned": ["Cam", "Pencere", "Tutmak", "Diş", "Mesir"]
+  },
+  {
+    "main": "Çavdar",
+    "banned": ["Arpa", "Tahıl", "Buğday", "Kepek", "Ekmek"]
+  },
+  {
+    "main": "Veresiye",
+    "banned": ["Peşin", "Borç", "Satın Almak", "Ödemek", "Defter"]
+  },
+  {
+    "main": "Porsiyon",
+    "banned": ["Yemek", "Tabak", "Lokanta", "Yarım", "Restoran"]
+  },
+  {
+    "main": "Çamaşır",
+    "banned": ["Kirli", "Yıkamak", "Makine", "Deterjan", "Giymek"]
+  },
+  {
+    "main": "Tabure",
+    "banned": ["Oturmak", "Sandalye", "Koltuk", "Yemekhane", "Sırt"]
+  },
+  {
+    "main": "Servet",
+    "banned": ["Kazanmak", "Zenginlik", "Mal", "Mülk", "Para"]
+  },
+  {
+    "main": "Miço",
+    "banned": ["Tayfa", "Gemi", "Kaptan", "Deniz", "Yardımcı"]
+  },
+  {
+    "main": "Hasır",
+    "banned": ["Sepet", "Şapka", "Plaj", "Deniz", "Sermek"]
+  },
+  {
+    "main": "Bukalemun",
+    "banned": ["Hayvan", "Renk", "Kertenkele", "Değişmek", "Sürüngen"]
+  },
+  {
+    "main": "Konvoy",
+    "banned": ["Araba", "Gitmek", "Dizilmek", "Arka", "Düğün"]
+  },
+  {
+    "main": "Vezne",
+    "banned": ["Banka", "Para", "Ödeme", "Almak", "Muhasebe"]
+  },
+  {
+    "main": "Cephe",
+    "banned": ["Savaş", "Ordu", "Asker", "Saldırmak", "Barış"]
+  },
+  {
+    "main": "Özne",
+    "banned": ["Cümle", "İş", "Kişi", "Varlık", "Öge"]
+  },
+  {
+    "main": "Fay",
+    "banned": ["Hat", "Deprem", "Kırılmak", "Sarsılmak", "İstanbul"]
+  },
+  {
+    "main": "Paragraf",
+    "banned": ["Sınav", "Soru", "Ana düşünce", "Yardımcı düşünce", "Metin"]
+  },
+  {
+    "main": "Fiil",
+    "banned": ["İş", "Oluş", "Hareket", "Eylem", "Sözcük"]
+  },
+  {
+    "main": "Sözlük",
+    "banned": ["Anlam", "Kelime", "Sözcük", "Açıklama", "Lügat"]
+  },
+  {
+    "main": "Okka",
+    "banned": ["Ağırlık", "Ölçü", "Birim", "Kilo", "Tartı"]
+  },
+  {
+    "main": "Masal",
+    "banned": ["Olağanüstü", "Kahraman", "Yazar", "Keloğlan", "Kitap"]
+  },
+  {
+    "main": "Öneri",
+    "banned": ["Teklif", "Çözüm", "Yol", "Cümle", "İyi olur"]
+  },
+  {
+    "main": "İkilem",
+    "banned": ["Kararsız", "Cümle", "Durum", "Acaba", "Tercih"]
+  },
+  {
+    "main": "Şatafat",
+    "banned": ["Gösterişli", "Görkem", "İhtişam", "Çarpıcı", "Süs"]
+  },
+  {
+    "main": "Aheste",
+    "banned": ["Yavaş", "Ağır", "Hızlı", "Tembel", "Durgun"]
+  },
+  {
+    "main": "Gazete",
+    "banned": ["Basın", "Okumak", "Medya", "İlan", "Sayfa"]
+  },
+  {
+    "main": "Karate",
+    "banned": ["Dövüş sanatları", "Yumruk", "Tekme", "Kid", "Kavga"]
+  },
+  {
+    "main": "Cami",
+    "banned": ["İmam", "Namaz", "Müslüman", "Cemaat", "İbadet"]
+  },
+  {
+    "main": "Terlik",
+    "banned": ["Ayakkabı", "Hafif", "Anne", "Giymek", "Ev"]
+  },
+  {
+    "main": "Kartal",
+    "banned": ["Futbol takımı", "Yırtıcı", "Kara", "Kuş", "Kafes"]
+  },
+  {
+    "main": "Fasulye",
+    "banned": ["Ayşe Kadın", "Kuru", "Gaz", "Sırık", "Yemek"]
+  },
+  {
+    "main": "Dede Korkut",
+    "banned": ["Efsane", "Ergenekon", "Destan", "Hikaye", "Eski"]
+  },
+  {
+    "main": "Altın",
+    "banned": ["Değerli", "Sarraf", "Çeyrek", "Takmak", "Kuyumcu"]
+  },
+  {
+    "main": "Saldırgan",
+    "banned": ["Agresif", "Tehlike", "Kavga", "Zarar", "Düşman"]
+  },
+  {
+    "main": "Şikayet",
+    "banned": ["Hoşnutsuz", "Memnuniyet", "Yakınmak", "Tüketici", "Dert"]
+  },
+  {
+    "main": "Beze",
+    "banned": ["Hamur", "Yağ", "Pasta", "Pişkinlik", "Pazı"]
+  },
+  {
+    "main": "Böcek",
+    "banned": ["Zehir", "Sinek", "Haşere", "Hayvan", "Yaratık"]
+  },
+  {
+    "main": "Yatakhane",
+    "banned": ["Yatılı", "Yurt", "Kışla", "Okul", "Yatmak"]
+  },
+  {
+    "main": "Uzlaşmak",
+    "banned": ["İşbirliği", "Mutabakat", "Uyuşma", "Anlaşma", "İttifak"]
+  },
+  {
+    "main": "Makinist",
+    "banned": ["Metro", "Sinema", "Film", "Tren", "Kullanmak"]
+  },
+  {
+    "main": "Balina",
+    "banned": ["Deniz", "Su", "Memeli", "Hayvan", "Yunus"]
+  },
+  {
+    "main": "Göç",
+    "banned": ["Değiştirmek", "Kuş", "Gitmek", "Taşınmak", "Hayvan"]
+  },
+  {
+    "main": "Yabancı",
+    "banned": ["Dil", "Lisan", "Avrupa", "Turist", "Farklı"]
+  },
+  {
+    "main": "Metal",
+    "banned": ["Ametal", "İletken", "Maden", "Demir", "Kimya"]
+  },
+  {
+    "main": "Abone",
+    "banned": ["Satın almak", "Dergi", "Gazete", "Yonca Evcimik", "Üye"]
+  },
+  {
+    "main": "Çalmak",
+    "banned": ["Polis", "Hırsız", "Aranmak", "İzin", "Ev"]
+  },
+  {
+    "main": "Çatlak",
+    "banned": ["Aralık", "Ayrılmak", "Deli", "Ara", "Yarılmak"]
+  },
+  {
+    "main": "Alim",
+    "banned": ["Bilge", "Akıllı", "Zeki", "Hoca", "Bilgin"]
+  },
+  {
+    "main": "Leke",
+    "banned": ["İz", "Çamaşır", "Renk", "Çıkartmak", "Kir"]
+  },
+  {
+    "main": "Laptop",
+    "banned": ["Elde", "Bilgisayar", "Çanta", "Masaüstü", "Kasasız"]
+  },
+  {
+    "main": "Tuğla",
+    "banned": ["Blok", "Duvar", "İnşaat", "Malzeme", "Yapı"]
+  },
+  {
+    "main": "Sağlam",
+    "banned": ["Sağlıklı", "Sıhhatli", "Bozulmaz", "Dayanıklı", "Yıkılmaz"]
+  }
+]
