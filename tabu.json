@@ -694,10 +694,6 @@
     "banned": ["Soğuk", "Kış", "Kar", "Yağmur", "Üşümek"]
   },
   {
-    "main": "Mont",
-    "banned": ["Soğuk", "Kış", "Kar", "Yağmur", "Üşümek"]
-  },
-  {
     "main": "Petrol",
     "banned": ["Benzin", "Mazot", "Yakıt", "Akaryakıt", "Otomobil"]
   },
